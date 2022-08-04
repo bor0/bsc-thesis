@@ -1,0 +1,9 @@
+manuscript/chapter1.md
+manuscript/part1.md
+manuscript/chapter2.md
+manuscript/chapter3.md
+manuscript/part2.md
+manuscript/chapter4.md
+manuscript/chapter5.md
+manuscript/chapter6.md
+manuscript/bibliography.md

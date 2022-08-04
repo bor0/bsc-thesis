@@ -1,0 +1,16 @@
+---
+# This font has proper support for cyrillic
+mainfont: Times New Roman
+fontsize: 12pt
+indent: true
+linestretch: 1.5
+
+# Set margins
+geometry: "top=2cm, bottom=2cm, left=2.5cm, right=2cm"
+
+toc-title: Содржина
+documentclass: report
+
+title-meta: 'Implementing a programming language and a theorem prover'
+author-meta: 'Boro Sitnikovski'
+---
